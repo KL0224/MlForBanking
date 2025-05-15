@@ -35,4 +35,4 @@ Sau khi tiền xử lý dữ liệu, các mô hình phổ biến đã được s
 - `Decision Tree`
 - `Random Forest`
 ...
-Mỗi mô hình được đánh giá dựa trên độ chính xác, độ phủ và khả năng tổng quát hóa để chọn ra mô hình tối ưu nhất cho từng bài toán cụ thể.
+-> Mỗi mô hình được đánh giá dựa trên độ chính xác, độ phủ và khả năng tổng quát hóa để chọn ra mô hình tối ưu nhất cho từng bài toán cụ thể.
